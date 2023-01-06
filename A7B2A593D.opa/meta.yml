@@ -1,0 +1,19 @@
+id: A7B2A593D
+title: The Brief Ḍākinī Prayer
+type: translation
+pechas:
+- I5F4EB364
+- I9029099F
+source_metadata:
+  languages:
+  - en
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 11:43:50.487889
+  last_modified_at: 2023-01-04 11:43:50.487897
+  collections:
+  - Dodrupchen Jigme Trinle Özer Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  I5F4EB364/6890: 2E22
+  I9029099F/4DD4: 2E22
